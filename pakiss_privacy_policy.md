@@ -81,7 +81,7 @@ Any material changes will be communicated within the App (e.g., via pop-up notic
 If you have any questions, concerns, or suggestions regarding this Privacy Policy, please contact us at:
 
 
-📧 Email: wonyue2019@gmail.com
+📧 Email: wonyue2019@ gmail.com
 
 We will respond to your inquiry as soon as possible.
 
