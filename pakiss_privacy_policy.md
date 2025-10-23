@@ -1,7 +1,7 @@
 Privacy Policy
 Effective Date: October 22, 2025
 
-Thank you for using our application (hereinafter referred to as the "App"). We deeply respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we use system permissions and handle data when you use our App.
+Thank you for using our application PAKISS(hereinafter referred to as the "App"). We deeply respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we use system permissions and handle data when you use our App.
 
 By using the PAKISS App, you acknowledge that you have read, understood, and agree to the practices described in this policy.
 
